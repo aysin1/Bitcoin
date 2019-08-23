@@ -1,0 +1,18 @@
+{
+    "Bitcoin": {
+      "testnet": {
+        "username": "imran",
+        "password": "whoami",
+        "network": "regtest",
+        "port": 18332,
+        "host": "172.16.21.1"
+      },
+      "mainnet": {
+        "username": "imran",
+        "password": "whoami",
+        "network": "mainnet",
+        "port": 8332
+      }
+    
+    }
+}

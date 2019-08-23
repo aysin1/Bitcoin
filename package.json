@@ -1,0 +1,27 @@
+{
+  "name": "bitcoin_api",
+  "version": "1.0.0",
+  "description": "integrated with crypto currency wallets",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/aysin1.git"
+  },
+  "author": "surya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/aysin1/issues"
+  },
+  "homepage": "https://github.com/www.github.com/aysin1#readme",
+  "dependencies": {
+    "bitcoin-core": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
